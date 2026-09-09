@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://muara-taweh.vercel.app/sitemap.xml
+
